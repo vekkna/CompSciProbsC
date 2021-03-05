@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "tkNqqzd5UxBckIhw0kcyWpbhlFzlPyx3WPt38hbIlcZZTYXFDV98jJ9kHIiLgO2zlutvBwn6TNO2lCxyj7KX/Q==",
+  "success": true,
+  "projectFilePath": "/home/vekkna/Desktop/CompSciProbsC/CompSciProbsC/CompSciProbsC.csproj",
+  "expectedPackageFiles": [
+    "/home/vekkna/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
