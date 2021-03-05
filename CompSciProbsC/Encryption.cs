@@ -1,0 +1,7 @@
+namespace CompSciProbsC
+{
+    class Encryption
+    {
+
+    }
+}

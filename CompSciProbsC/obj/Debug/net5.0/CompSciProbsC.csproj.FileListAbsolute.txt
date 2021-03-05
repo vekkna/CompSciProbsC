@@ -1,0 +1,16 @@
+/home/vekkna/Desktop/CompSciProbsC/CompSciProbsC/bin/Debug/net5.0/CompSciProbsC
+/home/vekkna/Desktop/CompSciProbsC/CompSciProbsC/bin/Debug/net5.0/CompSciProbsC.deps.json
+/home/vekkna/Desktop/CompSciProbsC/CompSciProbsC/bin/Debug/net5.0/CompSciProbsC.runtimeconfig.json
+/home/vekkna/Desktop/CompSciProbsC/CompSciProbsC/bin/Debug/net5.0/CompSciProbsC.runtimeconfig.dev.json
+/home/vekkna/Desktop/CompSciProbsC/CompSciProbsC/bin/Debug/net5.0/CompSciProbsC.dll
+/home/vekkna/Desktop/CompSciProbsC/CompSciProbsC/bin/Debug/net5.0/ref/CompSciProbsC.dll
+/home/vekkna/Desktop/CompSciProbsC/CompSciProbsC/bin/Debug/net5.0/CompSciProbsC.pdb
+/home/vekkna/Desktop/CompSciProbsC/CompSciProbsC/obj/Debug/net5.0/CompSciProbsC.csprojAssemblyReference.cache
+/home/vekkna/Desktop/CompSciProbsC/CompSciProbsC/obj/Debug/net5.0/CompSciProbsC.GeneratedMSBuildEditorConfig.editorconfig
+/home/vekkna/Desktop/CompSciProbsC/CompSciProbsC/obj/Debug/net5.0/CompSciProbsC.AssemblyInfoInputs.cache
+/home/vekkna/Desktop/CompSciProbsC/CompSciProbsC/obj/Debug/net5.0/CompSciProbsC.AssemblyInfo.cs
+/home/vekkna/Desktop/CompSciProbsC/CompSciProbsC/obj/Debug/net5.0/CompSciProbsC.csproj.CoreCompileInputs.cache
+/home/vekkna/Desktop/CompSciProbsC/CompSciProbsC/obj/Debug/net5.0/CompSciProbsC.dll
+/home/vekkna/Desktop/CompSciProbsC/CompSciProbsC/obj/Debug/net5.0/ref/CompSciProbsC.dll
+/home/vekkna/Desktop/CompSciProbsC/CompSciProbsC/obj/Debug/net5.0/CompSciProbsC.pdb
+/home/vekkna/Desktop/CompSciProbsC/CompSciProbsC/obj/Debug/net5.0/CompSciProbsC.genruntimeconfig.cache

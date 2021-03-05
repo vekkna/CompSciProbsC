@@ -6,7 +6,12 @@ namespace CompSciProbsC
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            /*   var fib = new Fibonacci();
+              for (int i = 0; i < 60; i++)
+                  Console.WriteLine(i + ": " + fib.FibIter(i)); */
+            var gene = "GAGTCGACGTA";
+            var geneCompressor = new GeneCompressor(gene);
+            Console.WriteLine(gene == geneCompressor.Decompress());
         }
     }
 }
