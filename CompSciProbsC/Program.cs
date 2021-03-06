@@ -17,6 +17,11 @@ namespace CompSciProbsC
                     var decrypted = Encryption.Decrypt(encrypted.Item1, encrypted.Item2);
                     Console.WriteLine(decrypted); */
             //  Console.WriteLine(PI.FindPI(1000));
+            /*Towers towers = new Towers();
+            towers.Solve();
+            Console.WriteLine(towers.First);
+            Console.WriteLine(towers.Second);*/
+            
 
         }
     }

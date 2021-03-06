@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tkNqqzd5UxBckIhw0kcyWpbhlFzlPyx3WPt38hbIlcZZTYXFDV98jJ9kHIiLgO2zlutvBwn6TNO2lCxyj7KX/Q==",
+  "dgSpecHash": "MXiRt/NCWltMiltLVre+4axUUKP2km2O0EeSJIU3BAl/sqcnQRcJHu5fAbzWJ1ZE5tQgs3JkwcCI164KX1a4oA==",
   "success": true,
-  "projectFilePath": "/home/vekkna/Desktop/CompSciProbsC/CompSciProbsC/CompSciProbsC.csproj",
-  "expectedPackageFiles": [
-    "/home/vekkna/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\User\\Desktop\\CompSciProbsC\\CompSciProbsC\\CompSciProbsC.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

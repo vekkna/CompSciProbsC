@@ -1,14 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ContentModelStore">
-    <e p="$USER_HOME$/.cache/JetBrains/Rider2020.3/extResources" t="IncludeRecursive" />
-    <e p="$USER_HOME$/.cache/JetBrains/Rider2020.3/resharper-host/local/Transient/Rider/v203/SolutionCaches/_CompSciProbsC.1740658250.00" t="ExcludeRecursive" />
-    <e p="$PROJECT_DIR$" t="IncludeFlat">
+    <e p="C:\Users\User\AppData\local\JetBrains\Rider2020.3\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\User\AppData\local\JetBrains\Rider2020.3\resharper-host\local\Transient\Rider\v203\SolutionCaches\_CompSciProbsC.-1144498338.00" t="ExcludeRecursive" />
+    <e p="C:\Users\User\Desktop\CompSciProbsC" t="IncludeFlat">
       <e p="CompSciProbsC" t="IncludeRecursive">
-        <e p="CompSciProbsC.csproj" t="IncludeRecursive" />
-        <e p="Fibonacci.cs" t="Include" />
-        <e p="Program.cs" t="Include" />
         <e p="bin" t="ExcludeRecursive" />
+        <e p="BinarySearch.cs" t="Include" />
+        <e p="CompSciProbsC.csproj" t="IncludeRecursive" />
+        <e p="Encryption.cs" t="Include" />
+        <e p="Fibonacci.cs" t="Include" />
+        <e p="Gene.cs" t="Include" />
+        <e p="GeneCompressor.cs" t="Include" />
         <e p="obj" t="ExcludeRecursive">
           <e p="Debug" t="Include">
             <e p="net5.0" t="Include">
@@ -16,6 +19,9 @@
             </e>
           </e>
         </e>
+        <e p="PI.cs" t="Include" />
+        <e p="Program.cs" t="Include" />
+        <e p="Towers.cs" t="Include" />
       </e>
       <e p="CompSciProbsC.sln" t="IncludeFlat" />
       <e p="packages" t="ExcludeRecursive" />
