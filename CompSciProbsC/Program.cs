@@ -16,6 +16,8 @@ namespace CompSciProbsC
                     var encrypted = Encryption.Encrypt(secret);
                     var decrypted = Encryption.Decrypt(encrypted.Item1, encrypted.Item2);
                     Console.WriteLine(decrypted); */
+            //  Console.WriteLine(PI.FindPI(1000));
+
         }
     }
 }
