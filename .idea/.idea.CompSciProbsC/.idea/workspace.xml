@@ -20,6 +20,7 @@
       <option value="$PROJECT_DIR$/CompSciProbsC/Program.cs" />
       <option value="$PROJECT_DIR$/CompSciProbsC/Gene.cs" />
       <option value="$PROJECT_DIR$/CompSciProbsC/BinarySearch.cs" />
+      <option value="$PROJECT_DIR$/CompSciProbsC/MazeSearch.cs" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="1pLc66JajglBwdjb9PYVsG8kABn" />
@@ -33,7 +34,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunManager">
     <configuration name="CompSciProbsC" type="DotNetProject" factoryName=".NET Project">
